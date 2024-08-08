@@ -9,4 +9,6 @@
 - live laugh love
 - lol
 
+<<<<<<< HEAD
 # why is always difficult
+
