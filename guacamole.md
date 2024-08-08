@@ -1,7 +1,7 @@
 # Ingredients 
 
 - Avocado 
-- Lemon
+- Lime
 - Salt
 - Cilantro 
 
